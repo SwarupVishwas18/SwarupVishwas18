@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/sdvishwas2312" target="blank"><img src="https://img.shields.io/twitter/follow/sdvishwas2312?logo=twitter&style=for-the-badge" alt="sdvishwas2312" /></a> </p>
 
-- 🔭 I’m currently working on **College Placement System**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **PHP/MERN/PYTHON applications**
 
-- 👨‍💻 All of my projects are available at [https://swarupvishwas18.github.io/swarup-vishwas/](https://swarupvishwas18.github.io/swarup-vishwas/)
+- 👨‍💻 All of my projects are available at [https://swarupvishwas18.github.io/](https://swarupvishwas18.github.io/)
 
 - 💬 Ask me about **PHP, Python**
 
