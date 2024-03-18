@@ -48,6 +48,11 @@
 ![SwarupVishwas18's Stats](https://github-readme-stats.vercel.app/api?username=SwarupVishwas18&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 ![SwarupVishwas18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwarupVishwas18&theme=shades-of-purple&hide_border=false)
 
+# Github Contribution Graph
+
+[![SwarupVishwas18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwarupVishwas18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=SwarupVishwas18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
