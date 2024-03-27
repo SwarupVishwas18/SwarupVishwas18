@@ -9,7 +9,7 @@
 
 # 💻 Tech Stack
 
-# Frontend 🧑‍💻
+## Frontend 🧑‍💻
 
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
@@ -20,7 +20,7 @@
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
-# Backend 🤕
+## Backend 🤕
 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
 [![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)[![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
-# Others
+## Others
 
 [![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
@@ -51,6 +51,16 @@
 # Github Contribution Graph
 
 [![SwarupVishwas18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwarupVishwas18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Quine Widgets
+
+## Github | Stats
+
+[![SwarupVishwas18's GitHub | Stats](https://stats.quine.sh/SwarupVishwas18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SwarupVishwas18)
+
+## Languages Over Time
+
+[![SwarupVishwas18's GitHub | Languages Over Time](https://stats.quine.sh/SwarupVishwas18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SwarupVishwas18)
 
 
 ## 🏆 GitHub Trophies
