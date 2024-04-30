@@ -46,7 +46,6 @@
 # 📊 GitHub Stats
 
 ![SwarupVishwas18's Stats](https://github-readme-stats.vercel.app/api?username=SwarupVishwas18&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-![SwarupVishwas18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwarupVishwas18&theme=shades-of-purple&hide_border=false)
 
 # Github Contribution Graph
 
