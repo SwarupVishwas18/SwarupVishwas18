@@ -51,15 +51,6 @@
 
 [![SwarupVishwas18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwarupVishwas18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Quine Widgets
-
-## Github | Stats
-
-[![SwarupVishwas18's GitHub | Stats](https://stats.quine.sh/SwarupVishwas18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SwarupVishwas18)
-
-## Languages Over Time
-
-[![SwarupVishwas18's GitHub | Languages Over Time](https://stats.quine.sh/SwarupVishwas18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SwarupVishwas18)
 
 
 ## 🏆 GitHub Trophies
