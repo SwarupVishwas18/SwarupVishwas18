@@ -51,7 +51,7 @@
 
 # Wakatime Status
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarupvishwas18)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarupvishwas18&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Github Contribution Graph
 
