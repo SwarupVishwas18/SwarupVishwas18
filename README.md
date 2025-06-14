@@ -47,6 +47,12 @@
 
 ![SwarupVishwas18's Stats](https://github-readme-stats.vercel.app/api?username=SwarupVishwas18&custom_title=Swarup's%20GitHub%20statistics&show_icons=true&theme=shades-of-purple&rank_icon=percentile&include_all_commits=true&theme=shades-of-purple&hide=stars")
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarupVishwas18&layout=donut-vertical&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+
+# Wakatime Status
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarupvishwas18)](https://github.com/anuraghazra/github-readme-stats)
+
 # Github Contribution Graph
 
 [![SwarupVishwas18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwarupVishwas18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
